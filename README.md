@@ -4,5 +4,5 @@
 
   > **professional crackhead**
 
-  ![[Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/cosmicthemethhead/nvim)
+  [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/cosmicthemethhead/nvim)
 </div>
