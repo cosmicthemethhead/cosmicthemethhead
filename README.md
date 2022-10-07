@@ -11,9 +11,3 @@
   <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=cosmicthemethhead&margin-w=15&no-frame=false&theme=radical">
   </img>
 </div>
-
-<style>
-h1{
-  background-color: red;
-}
-</style>
