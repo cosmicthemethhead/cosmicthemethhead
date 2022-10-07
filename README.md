@@ -13,7 +13,7 @@
 </div>
 
 <style>
-  h1 {
-    background-color: red;
-  }
+h1{
+  background-color: red;
+}
 </style>
